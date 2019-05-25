@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913687734375",
+    "firebase_url": "https://testapp-67d82.firebaseio.com",
+    "project_id": "testapp-67d82",
+    "storage_bucket": "testapp-67d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913687734375:android:adbc1922b1d18401",
+        "android_client_info": {
+          "package_name": "com.danya.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913687734375-2b6pr2rnlcm7njc8th3rdi0hdepkb4ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcA9JPxvzFuoGrx8q72T4I94wd4JhoGeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913687734375-2b6pr2rnlcm7njc8th3rdi0hdepkb4ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
